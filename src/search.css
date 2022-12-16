@@ -13,8 +13,9 @@ body {
    margin: 0 auto;
    padding: 20px 0px;
 }
-H1 {
+h1 {
    font-size: 48px;
+   color:rgb(136, 136, 136);
    padding: 20px 0 20px 0;
 }
 
